@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+	<persistence-unit name="mvcpenjualan">
+		<class>com.mvc.entity.MstBarang</class>
+		<class>com.mvc.entity.MstCustomer</class>
+		<class>com.mvc.entity.MstKaryawan</class>
+		<class>com.mvc.entity.MstKota</class>
+		<class>com.mvc.entity.MstProvinsi</class>
+		<class>com.mvc.entity.MstSupplier</class>
+		<class>com.mvc.entity.TrDetailPenjualan</class>
+		<class>com.mvc.entity.TrHeaderPenjualan</class>
+	</persistence-unit>
+</persistence>
