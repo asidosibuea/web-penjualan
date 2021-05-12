@@ -8,7 +8,7 @@
   <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring.version>4.2.4.RELEASE</spring.version>
-		<springsecurity.version>4.0.3.RELEASE</springsecurity.version>
+		<springsecurity.version>5.2.10.RELEASE</springsecurity.version>
 		<spring-data.version>1.6.0.RELEASE</spring-data.version>
 		<cglib.version>2.2.2</cglib.version>
 		<hibernate.version>4.3.5.Final</hibernate.version>
